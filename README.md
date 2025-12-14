@@ -236,7 +236,6 @@ Le modèle a été entraîné et optimisé pour maximiser la précision. Les mé
 
 **Cédric BOIMIN**
 
-- Data Scientist & IA
 - Développeur de l'application Prédicteur de Churn
 
 ## License
@@ -260,5 +259,6 @@ Pour toute question ou problème :
 
 **Made by Cédric BOIMIN — Data Analyst**
 ```
+
 
 
