@@ -47,8 +47,7 @@ Ce projet est une application complète de prédiction de churn (résiliation) c
 - 🔄 **Pipeline complet** : Preprocessing automatique (StandardScaler + OneHotEncoder)
 - 💾 **Sauvegarde** : Modèle persisté pour utilisation en production
 
-## Stack
-
+## Technologie utilisée
 ### Machine Learning
 - **XGBoost** : Algorithme de gradient boosting
 - **Scikit-learn** : Preprocessing et évaluation
@@ -260,3 +259,4 @@ Pour toute question ou problème :
 
 **Made by Cédric BOIMIN — Data Analyst**
 ```
+
