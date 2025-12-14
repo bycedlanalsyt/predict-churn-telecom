@@ -1,0 +1,14 @@
+# Environnements
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modèles lourds
+*.pkl
+
+# Données brutes
+data/*
+!data/sample.csv
